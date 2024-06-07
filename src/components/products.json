@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Bota Marrón",
+    "image": "/images/boot-2558324_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 2,
+    "name": "Botín Clásico",
+    "image": "/images/brown-2202191_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 3,
+    "name": "Zapato de Suela",
+    "image": "/images/men-7935015_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 4,
+    "name": "Zapato Oxford",
+    "image": "/images/oxford-shoes-6078993_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 5,
+    "name": "Zapato Casual",
+    "image": "/images/shoe-3743507_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 6,
+    "name": "Zapato Elegante",
+    "image": "/images/shoes-men-3743516_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 7,
+    "name": "Botín Moderno",
+    "image": "/images/shoes-men-3743530_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 8,
+    "name": "Zapato Formal",
+    "image": "/images/shoes-men-3743542_1280.jpg",
+    "category": "men"
+  },
+  {
+    "id": 9,
+    "name": "Zapatilla Deportiva",
+    "image": "/images/sneakers-531172_1280.jpg",
+    "category": "women"
+  },
+  {
+    "id": 10,
+    "name": "Bota para Caminata",
+    "image": "/images/walking-boots-3054634_1280.jpg",
+    "category": "women"
+  }
+]

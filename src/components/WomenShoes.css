@@ -1,0 +1,46 @@
+.women-shoes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 1200px;
+}
+
+.women-shoe {
+    width: 250px;
+    margin: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s;
+    background-color: white;
+    text-align: center;
+}
+
+.women-shoe:hover {
+    transform: scale(1.05);
+}
+
+.women-shoe img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;  /* Mantiene la relación de aspecto */
+}
+
+.women-shoe-info {
+    padding: 15px;
+}
+
+.women-shoe-info button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.women-shoe-info button:hover {
+    background-color: #0056b3;
+}
